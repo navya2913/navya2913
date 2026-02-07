@@ -1,34 +1,46 @@
-<h1 align="center">Hi 👋, I'm Navya Sree Gouru</h1>
-<h3 align="center">CSE – Data Science Student | Aspiring Software Developer & Data Analyst</h3>
+<h1 align="center" style="color:#6A5ACD;">Hi 👋, I'm Navya Sree Gouru</h1>
+<h3 align="center" style="color:#4B0082;">
+CSE – Data Science Student | Aspiring Software Developer & Data Analyst
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navya2913&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=navya2913&label=Profile%20Views&color=6A5ACD&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 </p>
 
----
+<hr style="border:1px solid #E6E6FA;">
 
 ## 👩‍💻 About Me  
 
-🎓 **B.Tech CSE (Data Science)** student with a strong foundation in  
-**Python, Java, C, SQL, and Web Technologies**.  
-💡 Passionate about **Data Analytics, Machine Learning, and Software Development**.  
-🚀 Actively building projects that solve **real-world problems** using data & code.
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
+</p>
+
+🎓 **B.Tech CSE (Data Science)** student  
+💡 Strong in **Python, Java, C, SQL & Data Analytics**  
+📊 Interested in **Machine Learning & Data-Driven Solutions**  
+🚀 Focused on building **real-world, impactful projects**
 
 ---
 
 ## 🎯 Career Objective  
 
-Motivated Computer Science (Data Science) student seeking an **entry-level Software Developer / Data Analyst role** to build efficient, scalable, and impactful solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4d6U8c8kKx8T6/giphy.gif" width="220"/>
+</p>
+
+Motivated Computer Science (Data Science) student seeking an  
+**entry-level Software Developer / Data Analyst role** to design  
+efficient, scalable, and meaningful solutions.
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### 🔹 Programming Languages  
+### 🔹 Programming  
 - Python 🐍  
 - Java ☕  
 - C  
@@ -38,75 +50,66 @@ Motivated Computer Science (Data Science) student seeking an **entry-level Softw
 - CSS  
 - JavaScript (Basic)
 
-### 🔹 Databases  
-- SQL (MySQL)
-
-### 🔹 Tools & Platforms  
-- Git & GitHub  
-- Windows OS  
+### 🔹 Data & Tools  
+- SQL (MySQL)  
 - Power BI  
 - Pandas, Matplotlib  
+- Git & GitHub  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+</p>
 
 ---
 
 ## 💼 Work Experience  
 
-### 🔹 **Web Development Intern**  
-**ApexPlanet** | *May 2025 – July 2025* | Remote  
-- Built responsive web pages using **HTML, CSS, JavaScript**  
-- Implemented interactive UI components  
-- Strengthened frontend development fundamentals  
+### 🔹 Web Development Intern – **ApexPlanet**  
+📅 *May 2025 – July 2025* | 🌐 Remote  
+- Built responsive webpages using **HTML, CSS, JavaScript**  
+- Developed interactive UI components  
 
-### 🔹 **Data Analytics Intern**  
-**Infosys Springboard** | *Oct 2024 – Dec 2024* | Remote  
-- Developed **IPL Infographics Dashboard** using **Python (Pandas, Matplotlib)**  
-- Analyzed team & player performance to generate actionable insights  
+### 🔹 Data Analytics Intern – **Infosys Springboard**  
+📅 *Oct 2024 – Dec 2024* | 🌐 Remote  
+- Created **IPL analytics dashboards** using **Python**  
+- Extracted actionable insights from datasets  
 
 ---
 
 ## 🚀 Projects  
 
-### 🔹 Machine Learning Based Software Design Pattern Detection  
-- Designed a neural-network-based system to detect **software design patterns**  
-- Improved **code quality, maintainability, and reusability**
+<p align="right">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="240"/>
+</p>
+
+### 🔹 ML Based Software Design Pattern Detection  
+- Neural-network-based detection of design patterns  
+- Improved code quality & maintainability  
 
 ### 🔹 Blood Group Detection Using Fingerprints  
-- Built an image-processing-based system for **non-invasive blood group detection**  
-- Focused on accuracy and quick identification  
+- Image processing-based, non-invasive identification system  
 
 ---
 
 ## 🏆 Leadership & Achievements  
 
-🏅 **2nd Prize** – Presentation on *Generative AI* (Women’s Day 2024)  
+🏅 2nd Prize – *Generative AI Presentation (Women’s Day 2024)*  
 👩‍💻 Active Member – **Computer Society of India (CSI)**  
-🎤 Coordinator – *Young Software Engineer Award*, Future Sastra 2025 Tech Fest  
+🎤 Coordinator – *Young Software Engineer Award*, Future Sastra 2025  
 
 ---
 
 ## 📜 Certifications  
 
-- Programming in Java (Elite) – **NPTEL Swayam**  
-- Programming Essentials in C & Python – **Cisco**  
-- Data Analytics & Visualization Job Simulation – **Accenture**  
-- Hands-on Data Visualization with **Power BI** – Infosys Springboard  
-- C1 Advanced English – **Cambridge**
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/>
+</p>
 
----
-
-## 🎓 Education  
-
-🎓 **B.Tech – CSE (Data Science)**  
-*Malla Reddy Engineering College for Women*  
-📊 CGPA: **8.94** | 2022 – 2026  
-
-📘 **Intermediate (MPC)**  
-Narayana Junior College  
-📊 **97.6%**
-
-🏫 **SSC**  
-Akshara High School  
-📊 **GPA: 10**
+- Programming in Java (Elite) – NPTEL  
+- C & Python Essentials – Cisco  
+- Data Analytics Job Simulation – Accenture  
+- Power BI – Infosys Springboard  
+- C1 Advanced English – Cambridge  
 
 ---
 
@@ -119,9 +122,6 @@ Akshara High School
 <a href="https://medium.com/@navyagouru14" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
 </a>
-<a href="https://www.codechef.com/users/mrcw22rh1a6738" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-</a>
 <a href="https://www.leetcode.com/navya1129" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
@@ -132,17 +132,17 @@ Akshara High School
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navya2913&show_icons=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navya2913&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navya2913&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navya2913&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navya2913"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navya2913&theme=tokyonight"/>
 </p>
 
 ---
 
-✨ *“Turning data into insights and code into impact.”*  
+✨ <i>“Empowering data with logic, and ideas with code.”</i>
