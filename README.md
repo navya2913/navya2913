@@ -8,7 +8,7 @@ CSE – Data Science Student | Aspiring Software Developer & Data Analyst
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
 </p>
 
 
