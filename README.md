@@ -98,22 +98,6 @@ thinking, problem-solving skills, and programming knowledge to build efficient r
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navya2913&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navya2913&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navya2913&theme=tokyonight"/>
-</p>
-
----
-
 <i style="color:#6A5ACD;">
 Quietly building skills today, confidently building solutions tomorrow.
 </i>
